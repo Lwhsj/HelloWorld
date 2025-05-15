@@ -4,6 +4,7 @@ using namespace std;
 
 void sort(int arr[], int size)
 {
+、// 改成快排
 }
 
 int main()
